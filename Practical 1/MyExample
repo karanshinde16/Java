@@ -1,0 +1,16 @@
+package corejava;
+
+public class MyExmple {
+
+	public static void main(String[] args) 
+	{
+
+int x = 30;
+float y;
+y = x;
+System.out.println(y);
+		// TODO Auto-generated method stub
+
+	}
+
+}
