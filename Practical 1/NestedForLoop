@@ -1,0 +1,17 @@
+package corejava;
+
+public class NestedForLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 for (int row = 1; row <6; row++) {
+		    	
+		      for (int coloum = 1; coloum <= row; coloum++) {
+		        System.out.print("*");
+		      }
+		      System.out.println("");
+		    }
+
+	}
+
+}
